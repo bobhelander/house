@@ -1,0 +1,13 @@
+4 Zone RGB Light Controller
+
+The breadboard picture only represents one zone.  The Arduino Due is used because it has 12 PMW outputs (RGB * 4 Zones).
+
+Library Prerequisites:
+
+https://github.com/sebnil/DueFlashStorage
+
+Hardware
+Adruino Due  "https://www.arduino.cc/en/Main/ArduinoBoardDue"
+
+N-Channel MOSFET (x12)
+https://www.sparkfun.com/products/10213
