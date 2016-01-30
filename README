@@ -14,3 +14,16 @@ https://github.com/smbaker/pynest
 web.py
 http://webpy.org/
 
+Controllers for the systems:
+Raspberry Pi -  The Python service code is running on the Pi.  The Pi is also connected to the Arduino DUE controlling
+                the lights using a serial cable attached to the DUE programming port.
+
+Arduino DUE - Used to control the under cabinet lighting.
+
+Arduino Uno - Used to control the alarm system.  Currently only wired to read if a remote sensor is open/closed.
+ -Ethernet Shield
+
+Arduino Uno - Used to control the irrigation system valves.
+ -Ethernet Shield
+ -Relay Shield
+
