@@ -1,1 +1,16 @@
+Home Automation REST Service Library
+REST Service to control:
+ - Alarm system
+ - Irrigation system
+ - Nest thermostat
+ - Custom under cabinet lighting
+ - Weather data
+ - Data history storage
+
+Software Prerequisites:
+PyNest files
 https://github.com/smbaker/pynest
+
+web.py
+http://webpy.org/
+
